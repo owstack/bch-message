@@ -5,7 +5,7 @@ Bcccore Message
 [![Build Status](https://img.shields.io/travis/owstack/bcccore-message.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/bcccore-message)
 [![Coverage Status](https://img.shields.io/coveralls/owstack/bcccore-message.svg?style=flat-square)](https://coveralls.io/r/owstack/bcccore-message?branch=master)
 
-bcccore-message adds support for verifying and signing bitcoin messages in [Node.js](http://nodejs.org/) and web browsers.
+Adds support for verifying and signing bitcoin messages in [Node.js](http://nodejs.org/) and web browsers.
 
 See [the main bcccore repo](https://github.com/owstack/bcccore) for more information.
 
