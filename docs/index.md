@@ -1,7 +1,7 @@
 # Message Verification and Signing
-Bcccore implementation of [bitcoin message signing and verification](http://bitcoin.stackexchange.com/questions/3337/what-are-the-safety-guidelines-for-using-the-sign-message-feature/3339#3339). This is used to cryptographically prove that a certain message was signed by the holder of an address private key.
+Implementation of [bitcoin message signing and verification](http://bitcoin.stackexchange.com/questions/3337/what-are-the-safety-guidelines-for-using-the-sign-message-feature/3339#3339). This is used to cryptographically prove that a certain message was signed by the holder of an address private key.
 
-For more information refer to the [bcccore-message](https://github.com/owstack/bcccore-message) github repo.
+For more information refer to the [bch-message](https://github.com/owstack/bch-message) github repo.
 
 ## Installation
 Message Verification and Signing is implemented as a separate module and you must add it to your dependencies:
@@ -9,13 +9,13 @@ Message Verification and Signing is implemented as a separate module and you mus
 For node projects:
 
 ```bash
-npm install bcccore-message --save
+npm install bch-message --save
 ```
 
 For client-side projects:
 
 ```bash
-bower install bcccore-message --save
+bower install bch-message --save
 ```
 
 ## Example
