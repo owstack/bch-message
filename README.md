@@ -1,6 +1,8 @@
 Bch Message
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/owstack/bch-message.svg)](https://greenkeeper.io/)
+
 [![NPM Package](https://img.shields.io/npm/v/bch-message.svg?style=flat-square)](https://www.npmjs.org/package/bch-message)
 [![Build Status](https://img.shields.io/travis/owstack/bch-message.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/bch-message)
 [![Coverage Status](https://img.shields.io/coveralls/owstack/bch-message.svg?style=flat-square)](https://coveralls.io/r/owstack/bch-message?branch=master)
