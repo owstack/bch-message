@@ -22,8 +22,8 @@ bower install bch-message
 To sign a message:
 
 ```javascript
-var bchLib = require('bch-lib');
-var Message = require('bch-message');
+var bchLib = require('@owstack/bch-lib');
+var Message = require('@owstack/bch-message');
 
 var privateKey = bchLib.PrivateKey.fromWIF('cPBn5A4ikZvBTQ8D7NnvHZYCAxzDZ5Z2TSGW2LkyPiLxqYaJPBW4');
 var signature = Message('hello, world').sign(privateKey);

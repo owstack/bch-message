@@ -4,7 +4,7 @@ var chai = require('chai');
 var expect = chai.expect;
 var should = chai.should();
 
-var bchLib = require('bch-lib');
+var bchLib = require('@owstack/bch-lib');
 var Address = bchLib.Address;
 var Signature = bchLib.crypto.Signature;
 var Message = require('../');
