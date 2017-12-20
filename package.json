@@ -1,6 +1,6 @@
 {
   "name": "@owstack/bch-message",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Bitcoin Cash message verification and signing for Bch Node.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/owstack/bch-message.git"
   },
   "dependencies": {
-    "@owstack/bch-lib": "^0.0.5"
+    "@owstack/bch-lib": "^0.0.6"
   },
   "devDependencies": {
     "@owstack/ows-build": "^0.0.3",
